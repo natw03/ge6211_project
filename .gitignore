@@ -1,3 +1,4 @@
 *.tif
 *.ovr
 *.aux.xml
+.Rproj.user
